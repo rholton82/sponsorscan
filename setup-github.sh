@@ -8,7 +8,7 @@
 #   2. Set your GitHub username below
 #   3. Run: bash setup-github.sh
 
-GITHUB_USERNAME="YOUR_GITHUB_USERNAME"
+GITHUB_USERNAME="rholton82"
 REPO_NAME="sponsorscan"
 
 echo "Setting up GitHub repo for SponsorScan..."
